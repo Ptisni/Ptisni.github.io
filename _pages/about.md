@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student. Robotics enthusiast. Proud European.
+subtitle: PhD Student. Robotics enthusiast.
 
 profile:
   align: left
