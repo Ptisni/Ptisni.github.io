@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: 
-years:
+description: All publications are also available on my Google Scholar.
+years: [2022]
 nav: true
 nav_order: 1
 ---
