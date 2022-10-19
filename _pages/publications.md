@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: All publications are also available on my Google Scholar.
+description: * Denotes equal contribution. All publications are also available on my Google Scholar.
 years: [2022]
 nav: true
 nav_order: 1
