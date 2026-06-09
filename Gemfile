@@ -13,6 +13,9 @@ group :jekyll_plugins do
     gem 'jekyll-target-blank'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+    # Newer sass-embedded releases can fail to install on Ruby 3.1 in GitHub
+    # Actions with `uninitialized constant JSON::Fragment` via google-protobuf 4.x.
+    gem 'sass-embedded', '1.70.0'
     gem 'unicode_utils'
     gem 'webrick'
     gem "execjs"
